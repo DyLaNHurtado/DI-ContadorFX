@@ -5,7 +5,7 @@ Primera aplicación básica con Java FX, Contador Incrementa y Decrementa el tex
 
 ## Elementos utilizados ⚙️ :
 
-###### Java FX
+#### Java FX
 - Button
 - Label
 - HBox
